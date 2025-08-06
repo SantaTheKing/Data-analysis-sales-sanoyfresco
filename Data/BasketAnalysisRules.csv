@@ -1,0 +1,400 @@
+antecedente;consecuente;soporte_a;confianza;lift;id_producto_a;id_seccion_a;id_departamento_a
+Cilantro Orgánico;Limones;3,5;25,4;3,6;31717;16;4
+Cebolla Roja Orgánica;Cilantro Orgánico;3,4;12,8;3,6;8518;83;4
+Ajo Orgánico;Cebolla Amarilla Orgánica;5,5;20,1;3,5;24964;83;4
+Apio Orgánico en Ramillete Pequeño;Zanahorias;3,4;12,0;3,3;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Pepino Orgánico;3,4;12,7;3,1;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Cebolla Amarilla Orgánica;3,4;16,2;2,8;44359;83;4
+Ajo Orgánico;Cebolla Roja Orgánica;5,5;9,2;2,7;24964;83;4
+Apio Orgánico en Ramillete Pequeño;Col Rizada Orgánica de Michigan;3,4;8,9;2,6;44359;83;4
+Ajo Orgánico;Cilantro Orgánico;5,5;9,0;2,5;24964;83;4
+Limones;Limón Grande;7,1;19,8;2,5;26209;24;4
+Hummus Original;Zanahorias Baby Orgánicas;3,6;9,8;2,5;30489;67;20
+Ajo Orgánico;Apio Orgánico en Ramillete Pequeño;5,5;8,4;2,4;24964;83;4
+Cebolla Amarilla Orgánica;Zanahorias;5,7;8,9;2,4;22935;83;4
+Pepino Orgánico;Racimo de Tomates Orgánicos;4,1;7,6;2,4;30391;83;4
+Calabacín Orgánico;Coliflor Fresca;5,3;8,2;2,3;45007;83;4
+Aguacate Hass Orgánico;Limón Orgánico;10,7;10,0;2,3;47209;24;4
+Ajo Orgánico;Zanahorias;5,5;8,5;2,3;24964;83;4
+Limón Orgánico;Pepino Orgánico;4,4;9,6;2,3;5876;24;4
+Cebolla Roja Orgánica;Limones;3,4;16,2;2,3;8518;83;4
+Pepino Orgánico;Tomates Cherry Orgánicos;4,1;9,6;2,3;30391;83;4
+Cebollas Amarillas;Zanahorias;3,7;8,3;2,3;4605;83;4
+Ajo Orgánico;Limón Orgánico;5,5;9,7;2,2;24964;83;4
+Apio Orgánico en Ramillete Pequeño;Limón Orgánico;3,4;9,5;2,2;44359;83;4
+Ajo Orgánico;Cebollas Amarillas;5,5;8,0;2,1;24964;83;4
+Cilantro Orgánico;Coliflor Fresca;3,5;7,5;2,1;31717;16;4
+Col Rizada Orgánica de Michigan;Zanahorias;3,4;7,5;2,1;28985;83;4
+Cebolla Roja Orgánica;Racimo de Tomates Orgánicos;3,4;6,9;2,1;8518;83;4
+Apio Orgánico en Ramillete Pequeño;Cilantro Orgánico;3,4;7,5;2,1;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Coliflor Fresca;3,4;7,7;2,1;44359;83;4
+Cebolla Amarilla Orgánica;Limón Orgánico;5,7;9,3;2,1;22935;83;4
+Cebolla Amarilla Orgánica;Cilantro Orgánico;5,7;7,6;2,1;22935;83;4
+Calabacín Orgánico;Zanahorias;5,3;7,7;2,1;45007;83;4
+Calabacín Orgánico;Cebolla Roja Orgánica;5,3;7,2;2,1;45007;83;4
+Coliflor Fresca;Espárragos;3,6;7,3;2,1;27104;83;4
+Apio Orgánico en Ramillete Pequeño;Calabacín Orgánico;3,4;10,4;2,0;44359;83;4
+Coliflor Fresca;Zanahorias;3,6;7,2;2,0;27104;83;4
+Cebolla Roja Orgánica;Tomates Cherry Orgánicos;3,4;8,7;2,0;8518;83;4
+Cebolla Roja Orgánica;Pepino Orgánico;3,4;8,4;2,0;8518;83;4
+Ajo Orgánico;Limones;5,5;14,6;2,0;24964;83;4
+Ajo Orgánico;Coliflor Fresca;5,5;7,4;2,0;24964;83;4
+Ajo Orgánico;Col Rizada Orgánica de Michigan;5,5;6,7;2,0;24964;83;4
+Arándanos Orgánicos;Frambuesas Orgánicas;5,1;13,5;2,0;39275;123;4
+Cebolla Amarilla Orgánica;Cebolla Roja Orgánica;5,7;6,9;2,0;22935;83;4
+Calabacín Orgánico;Cebolla Amarilla Orgánica;5,3;11,6;2,0;45007;83;4
+Manzana Fuji Extra Grande Orgánica;Pepino Orgánico;3,8;8,3;2,0;19057;24;4
+Rúcula Baby Orgánica;Tomates Cherry Orgánicos;3,7;8,4;2,0;21616;123;4
+Aguacate Hass Orgánico;Pepino Orgánico;10,7;8,3;2,0;47209;24;4
+Limón Grande;Pepino Kirby;7,8;9,3;1,9;47626;24;4
+Frambuesas Orgánicas;Fresas Orgánicas;6,9;24,9;1,9;27966;123;4
+Cebolla Roja Orgánica;Limón Orgánico;3,4;8,4;1,9;8518;83;4
+Apio Orgánico en Ramillete Pequeño;Cebolla Roja Orgánica;3,4;6,5;1,9;44359;83;4
+Cebollas Amarillas;Limón Grande;3,7;14,9;1,9;4605;83;4
+Limones;Limón Orgánico;7,1;8,2;1,9;26209;24;4
+Cebolla Roja Orgánica;Coliflor Fresca;3,4;6,8;1,9;8518;83;4
+Aguacate Hass Orgánico;Racimo de Tomates Orgánicos;10,7;6,1;1,9;47209;24;4
+Manzana Honeycrisp;Uvas Rojas sin Semillas;4,0;7,9;1,9;45066;24;4
+Cilantro Orgánico;Pepino Orgánico;3,5;7,8;1,9;31717;16;4
+Cilantro Orgánico;Racimo de Tomates Orgánicos;3,5;6,3;1,9;31717;16;4
+Cebolla Roja Orgánica;Zanahorias;3,4;6,8;1,9;8518;83;4
+Cebolla Amarilla Orgánica;Coliflor Fresca;5,7;7,0;1,9;22935;83;4
+Cebolla Amarilla Orgánica;Racimo de Tomates Orgánicos;5,7;6,2;1,9;22935;83;4
+Calabacín Orgánico;Espárragos;5,3;6,6;1,9;45007;83;4
+Col Rizada Orgánica de Michigan;Coliflor Fresca;3,4;6,9;1,9;28985;83;4
+Col Rizada Orgánica de Michigan;Pepino Orgánico;3,4;7,9;1,9;28985;83;4
+Calabacín Orgánico;Pepino Orgánico;5,3;7,9;1,9;45007;83;4
+Cebolla Roja Orgánica;Col Rizada Orgánica de Michigan;3,4;6,1;1,8;8518;83;4
+Limón Orgánico;Racimo de Tomates Orgánicos;4,4;6,0;1,8;5876;24;4
+Aguacate Hass Orgánico;Frambuesas Orgánicas;10,7;12,1;1,8;47209;24;4
+Cebollas Amarillas;Limones;3,7;13,1;1,8;4605;83;4
+Calabacín Orgánico;Cilantro Orgánico;5,3;6,3;1,8;45007;83;4
+Aguacate Orgánico;Limones;8,9;12,5;1,8;47766;24;4
+Apio Orgánico en Ramillete Pequeño;Racimo de Tomates Orgánicos;3,4;5,8;1,8;44359;83;4
+Cilantro Orgánico;Col Rizada Orgánica de Michigan;3,5;6,0;1,8;31717;16;4
+Aguacate Orgánico;Limón Grande;8,9;14,0;1,8;47766;24;4
+Ajo Orgánico;Calabacín Orgánico;5,5;9,7;1,8;24964;83;4
+Cebolla Roja Orgánica;Rúcula Baby Orgánica;3,4;6,5;1,8;8518;83;4
+Arándanos Orgánicos;Fresas Orgánicas;5,1;23,8;1,8;39275;123;4
+Ajo Orgánico;Limón Grande;5,5;14,1;1,8;24964;83;4
+Cilantro Orgánico;Limón Orgánico;3,5;7,8;1,8;31717;16;4
+Calabacín Orgánico;Tomates Cherry Orgánicos;5,3;7,5;1,8;45007;83;4
+Aguacate Orgánico;Pepino Kirby;8,9;8,7;1,8;47766;24;4
+Frambuesas Orgánicas;Manzana Honeycrisp Orgánica;6,9;7,6;1,8;27966;123;4
+Manzana Honeycrisp;Pepino Kirby;4,0;8,0;1,7;45066;24;4
+Manzana Honeycrisp Orgánica;Pepino Orgánico;4,2;6,9;1,7;8277;24;4
+Apio Orgánico en Ramillete Pequeño;Manzana Fuji Extra Grande Orgánica;3,4;6,4;1,7;44359;83;4
+Tomates Cherry Orgánicos;Zanahorias Baby Orgánicas;4,3;6,5;1,7;40706;123;4
+Calabacín Orgánico;Col Rizada Orgánica de Michigan;5,3;5,9;1,7;45007;83;4
+Cebolla Amarilla Orgánica;Pepino Orgánico;5,7;7,1;1,7;22935;83;4
+Cebolla Roja Orgánica;Limón Grande;3,4;13,2;1,7;8518;83;4
+Pepino Kirby;Tomates Cherry Orgánicos;4,8;7,3;1,7;49683;83;4
+Calabacín Orgánico;Racimo de Tomates Orgánicos;5,3;5,6;1,7;45007;83;4
+Cebolla Roja Orgánica;Espárragos;3,4;5,9;1,7;8518;83;4
+Manzanas Gala Orgánicas;Pepino Orgánico;3,7;7,1;1,7;37646;24;4
+Cilantro Orgánico;Zanahorias;3,5;6,2;1,7;31717;16;4
+Frambuesas Orgánicas;Limón Orgánico;6,9;7,4;1,7;27966;123;4
+Fresas;Uvas Rojas sin Semillas;7,2;7,1;1,7;16797;24;4
+Frambuesas Orgánicas;Manzana Fuji Extra Grande Orgánica;6,9;6,3;1,7;27966;123;4
+Col Rizada Orgánica de Michigan;Espinacas Baby Orgánicas;3,4;20,7;1,7;28985;83;4
+Coliflor Fresca;Pepino Orgánico;3,6;7,2;1,7;27104;83;4
+Col Rizada Orgánica de Michigan;Pepino Kirby;3,4;8,3;1,7;28985;83;4
+Espárragos;Limón Grande;3,4;13,4;1,7;46979;83;4
+Aguacate Hass Orgánico;Manzana Fuji Extra Grande Orgánica;10,7;6,3;1,7;47209;24;4
+Ajo Orgánico;Rúcula Baby Orgánica;5,5;6,3;1,7;24964;83;4
+Ajo Orgánico;Racimo de Tomates Orgánicos;5,5;5,6;1,7;24964;83;4
+Ajo Orgánico;Pepino Orgánico;5,5;6,8;1,7;24964;83;4
+Aguacate Hass Orgánico;Manzana Honeycrisp Orgánica;10,7;7,2;1,7;47209;24;4
+Col Rizada Orgánica de Michigan;Limón Grande;3,4;13,3;1,7;28985;83;4
+Espárragos;Tomates Cherry Orgánicos;3,4;6,8;1,6;46979;83;4
+Pepino Kirby;Zanahorias Baby Orgánicas;4,8;6,1;1,6;49683;83;4
+Col Rizada Orgánica de Michigan;Espárragos;3,4;5,3;1,6;28985;83;4
+Limón Orgánico;Manzana Fuji Extra Grande Orgánica;4,4;6,1;1,6;5876;24;4
+Calabacín Orgánico;Limón Orgánico;5,3;7,0;1,6;45007;83;4
+Cebolla Amarilla Orgánica;Col Rizada Orgánica de Michigan;5,7;5,5;1,6;22935;83;4
+Calabacín Orgánico;Espinacas Baby Orgánicas;5,3;19,5;1,6;45007;83;4
+Espinacas Baby Orgánicas;Tomates Cherry Orgánicos;12,2;6,7;1,6;21903;123;4
+Espinacas Baby Orgánicas;Pepino Orgánico;12,2;6,6;1,6;21903;123;4
+Calabacín Orgánico;Cebollas Amarillas;5,3;5,8;1,6;45007;83;4
+Coliflor Fresca;Limón Orgánico;3,6;6,9;1,6;27104;83;4
+Col Rizada Orgánica de Michigan;Limón Orgánico;3,4;7,3;1,6;28985;83;4
+Frambuesas Orgánicas;Pepino Orgánico;6,9;6,4;1,6;27966;123;4
+Cebolla Amarilla Orgánica;Limones;5,7;11,3;1,6;22935;83;4
+Cebolla Amarilla Orgánica;Manzana Honeycrisp Orgánica;5,7;6,6;1,6;22935;83;4
+Cebollas Amarillas;Cilantro Orgánico;3,7;5,7;1,6;4605;83;4
+Bolsa de Bananas Orgánicas;Manzana Fuji Extra Grande Orgánica;19,1;6,2;1,6;13176;24;4
+Manzana Honeycrisp;Zanahorias Baby Orgánicas;4,0;6,1;1,6;45066;24;4
+Cilantro Orgánico;Rúcula Baby Orgánica;3,5;6,0;1,6;31717;16;4
+Cebolla Roja Orgánica;Cebollas Amarillas;3,4;6,1;1,6;8518;83;4
+Manzana Fuji Orgánica;Pepino Kirby;4,5;7,8;1,6;28204;24;4
+Limones;Pepino Kirby;7,1;7,5;1,6;26209;24;4
+Limón Orgánico;Rúcula Baby Orgánica;4,4;5,8;1,6;5876;24;4
+Limones;Zanahorias;7,1;5,8;1,6;26209;24;4
+Limón Grande;Rúcula Baby Orgánica;7,8;5,9;1,6;47626;24;4
+Cebollas Amarillas;Col Rizada Orgánica de Michigan;3,7;5,4;1,6;4605;83;4
+Limón Orgánico;Manzana Honeycrisp Orgánica;4,4;6,7;1,6;5876;24;4
+Coliflor Fresca;Racimo de Tomates Orgánicos;3,6;5,1;1,6;27104;83;4
+Uvas Rojas sin Semillas;Zanahorias Baby Orgánicas;4,2;6,1;1,6;4920;123;4
+Apio Orgánico en Ramillete Pequeño;Espinacas Baby Orgánicas;3,4;19,5;1,6;44359;83;4
+Ajo Orgánico;Espinacas Baby Orgánicas;5,5;19,1;1,6;24964;83;4
+Aguacate Hass Orgánico;Apio Orgánico en Ramillete Pequeño;10,7;5,5;1,6;47209;24;4
+Aguacate Orgánico;Col Rizada Orgánica de Michigan;8,9;5,5;1,6;47766;24;4
+Aguacate Orgánico;Tomates Cherry Orgánicos;8,9;7,0;1,6;47766;24;4
+Aguacate Orgánico;Cilantro Orgánico;8,9;5,5;1,6;47766;24;4
+Aguacate Hass Orgánico;Cilantro Orgánico;10,7;5,7;1,6;47209;24;4
+Banana;Manzana Fuji Orgánica;23,8;7,2;1,6;24852;24;4
+Aguacate Orgánico;Manzana Honeycrisp;8,9;6,3;1,6;47766;24;4
+Aguacate Hass Orgánico;Cebolla Amarilla Orgánica;10,7;9,4;1,6;47209;24;4
+Aguacate Hass Orgánico;Ajo Orgánico;10,7;8,3;1,5;47209;24;4
+Espinacas Baby Orgánicas;Rúcula Baby Orgánica;12,2;5,5;1,5;21903;123;4
+Pepino Kirby;Zanahorias;4,8;5,4;1,5;49683;83;4
+Apio Orgánico en Ramillete Pequeño;Manzana Honeycrisp Orgánica;3,4;6,3;1,5;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Rúcula Baby Orgánica;3,4;5,5;1,5;44359;83;4
+Aguacate Orgánico;Cebollas Amarillas;8,9;5,5;1,5;47766;24;4
+Cebolla Roja Orgánica;Espinacas Baby Orgánicas;3,4;18,0;1,5;8518;83;4
+Apio Orgánico en Ramillete Pequeño;Tomates Cherry Orgánicos;3,4;6,4;1,5;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Zanahorias Baby Orgánicas;3,4;5,9;1,5;44359;83;4
+Racimo de Tomates Orgánicos;Rúcula Baby Orgánica;3,2;5,4;1,5;41950;83;4
+Espárragos;Pepino Kirby;3,4;7,1;1,5;46979;83;4
+Espárragos;Rúcula Baby Orgánica;3,4;5,5;1,5;46979;83;4
+Coliflor Fresca;Tomates Cherry Orgánicos;3,6;6,5;1,5;27104;83;4
+Cebollas Amarillas;Coliflor Fresca;3,7;5,5;1,5;4605;83;4
+Coliflor Fresca;Rúcula Baby Orgánica;3,6;5,5;1,5;27104;83;4
+Aguacate Orgánico;Espárragos;8,9;5,2;1,5;47766;24;4
+Agua con Gas de Pomelo;Hummus Original;3,8;5,2;1,5;44632;115;7
+Cebollas Amarillas;Espárragos;3,7;5,2;1,5;4605;83;4
+Pepino Orgánico;Zanahorias Baby Orgánicas;4,1;6,0;1,5;30391;83;4
+Coliflor Fresca;Espinacas Baby Orgánicas;3,6;18,0;1,5;27104;83;4
+Apio Orgánico en Ramillete Pequeño;Cebollas Amarillas;3,4;5,6;1,5;44359;83;4
+Col Rizada Orgánica de Michigan;Rúcula Baby Orgánica;3,4;5,5;1,5;28985;83;4
+Aguacate Orgánico;Rúcula Baby Orgánica;8,9;5,6;1,5;47766;24;4
+Pepino Orgánico;Zanahorias;4,1;5,5;1,5;30391;83;4
+Ajo Orgánico;Tomates Cherry Orgánicos;5,5;6,6;1,5;24964;83;4
+Col Rizada Orgánica de Michigan;Limones;3,4;10,8;1,5;28985;83;4
+Cilantro Orgánico;Espárragos;3,5;5,0;1,5;31717;16;4
+Agua con Gas de Pomelo;Crema;3,8;5,3;1,5;44632;115;7
+Cilantro Orgánico;Tomates Cherry Orgánicos;3,5;6,4;1,5;31717;16;4
+Ajo Orgánico;Espárragos;5,5;5,2;1,5;24964;83;4
+Manzanas Gala Orgánicas;Zanahorias Baby Orgánicas;3,7;5,9;1,5;37646;24;4
+Cilantro Orgánico;Limón Grande;3,5;11,6;1,5;31717;16;4
+Bolsa de Bananas Orgánicas;Frambuesas Orgánicas;19,1;10,7;1,5;13176;24;4
+Frambuesas Orgánicas;Manzanas Gala Orgánicas;6,9;5,4;1,5;27966;123;4
+Limones;Rúcula Baby Orgánica;7,1;5,7;1,5;26209;24;4
+Limón Grande;Manzana Honeycrisp;7,8;6,2;1,5;47626;24;4
+Aguacate Hass Orgánico;Cebolla Roja Orgánica;10,7;5,2;1,5;47209;24;4
+Limón Orgánico;Manzanas Gala Orgánicas;4,4;5,5;1,5;5876;24;4
+Fresas Orgánicas;Pepino Orgánico;13,3;6,4;1,5;21137;24;4
+Aguacate Hass Orgánico;Calabacín Orgánico;10,7;7,7;1,5;47209;24;4
+Aguacate Hass Orgánico;Manzanas Gala Orgánicas;10,7;5,5;1,5;47209;24;4
+Aguacate Hass Orgánico;Bolsa de Bananas Orgánicas;10,7;29,3;1,5;47209;24;4
+Fresas Orgánicas;Manzana Fuji Extra Grande Orgánica;13,3;5,7;1,5;21137;24;4
+Limón Orgánico;Zanahorias;4,4;5,7;1,5;5876;24;4
+Manzana Honeycrisp Orgánica;Zanahorias Baby Orgánicas;4,2;6,0;1,5;8277;24;4
+Aguacate Hass Orgánico;Tomates Cherry Orgánicos;10,7;6,3;1,5;47209;24;4
+Bolsa de Bananas Orgánicas;Manzana Honeycrisp Orgánica;19,1;6,2;1,5;13176;24;4
+Manzana Fuji Orgánica;Uvas Rojas sin Semillas;4,5;6,4;1,5;28204;24;4
+Banana;Manzana Honeycrisp;23,8;6,0;1,5;24852;24;4
+Limón Orgánico;Tomates Cherry Orgánicos;4,4;6,1;1,4;5876;24;4
+Pepino Orgánico;Rúcula Baby Orgánica;4,1;5,1;1,4;30391;83;4
+Manzana Fuji Extra Grande Orgánica;Tomates Cherry Orgánicos;3,8;5,9;1,4;19057;24;4
+Manzana Fuji Extra Grande Orgánica;Zanahorias Baby Orgánicas;3,8;5,5;1,4;19057;24;4
+Col Rizada Orgánica de Michigan;Tomates Cherry Orgánicos;3,4;6,1;1,4;28985;83;4
+Limón Grande;Tomates Cherry Orgánicos;7,8;6,0;1,4;47626;24;4
+Aguacate Hass Orgánico;Fresas Orgánicas;10,7;19,2;1,4;47209;24;4
+Coliflor Fresca;Manzana Fuji Extra Grande Orgánica;3,6;5,4;1,4;27104;83;4
+Coliflor Fresca;Manzana Honeycrisp Orgánica;3,6;6,0;1,4;27104;83;4
+Aguacate Orgánico;Ajo Orgánico;8,9;7,7;1,4;47766;24;4
+Hummus Original;Zanahorias;3,6;5,2;1,4;30489;67;20
+Espinacas Baby Orgánicas;Zanahorias Baby Orgánicas;12,2;5,3;1,4;21903;123;4
+Frambuesas Orgánicas;Hummus Original;6,9;5,2;1,4;27966;123;4
+Manzanas Gala Orgánicas;Tomates Cherry Orgánicos;3,7;6,1;1,4;37646;24;4
+Frambuesas Orgánicas;Tomates Cherry Orgánicos;6,9;5,9;1,4;27966;123;4
+Espárragos;Limones;3,4;10,2;1,4;46979;83;4
+Manzana Honeycrisp Orgánica;Tomates Cherry Orgánicos;4,2;5,8;1,4;8277;24;4
+Aguacate Hass Orgánico;Rúcula Baby Orgánica;10,7;5,1;1,4;47209;24;4
+Fresas Orgánicas;Manzana Honeycrisp Orgánica;13,3;5,9;1,4;21137;24;4
+Fresas Orgánicas;Manzanas Gala Orgánicas;13,3;5,0;1,4;21137;24;4
+Espinacas Baby Orgánicas;Zanahorias;12,2;5,1;1,4;21903;123;4
+Aguacate Orgánico;Espinacas Baby Orgánicas;8,9;17,5;1,4;47766;24;4
+Fresas Orgánicas;Tomates Cherry Orgánicos;13,3;5,9;1,4;21137;24;4
+Hummus Original;Manzana Honeycrisp;3,6;5,7;1,4;30489;67;20
+Hummus Original;Manzana Honeycrisp Orgánica;3,6;6,0;1,4;30489;67;20
+Pepino Kirby;Rúcula Baby Orgánica;4,8;5,3;1,4;49683;83;4
+Pepino Kirby;Uvas Rojas sin Semillas;4,8;5,8;1,4;49683;83;4
+Hummus Original;Manzanas Gala Orgánicas;3,6;5,1;1,4;30489;67;20
+Hummus Original;Pepino Kirby;3,6;7,0;1,4;30489;67;20
+Hummus Original;Pepino Orgánico;3,6;5,6;1,4;30489;67;20
+Hummus Original;Tomates Cherry Orgánicos;3,6;6,2;1,4;30489;67;20
+Coliflor Fresca;Limones;3,6;9,7;1,4;27104;83;4
+Cebollas Amarillas;Pepino Kirby;3,7;6,9;1,4;4605;83;4
+Cilantro Orgánico;Espinacas Baby Orgánicas;3,5;17,1;1,4;31717;16;4
+Cebolla Amarilla Orgánica;Espinacas Baby Orgánicas;5,7;17,4;1,4;22935;83;4
+Apio Orgánico en Ramillete Pequeño;Manzanas Gala Orgánicas;3,4;5,0;1,4;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Limones;3,4;10,0;1,4;44359;83;4
+Calabacín Orgánico;Rúcula Baby Orgánica;5,3;5,3;1,4;45007;83;4
+Calabacín Orgánico;Manzana Honeycrisp Orgánica;5,3;5,8;1,4;45007;83;4
+Calabacín Orgánico;Manzana Fuji Extra Grande Orgánica;5,3;5,2;1,4;45007;83;4
+Cebolla Amarilla Orgánica;Manzana Fuji Extra Grande Orgánica;5,7;5,5;1,4;22935;83;4
+Calabacín Orgánico;Limón Grande;5,3;11,0;1,4;45007;83;4
+Calabacín Orgánico;Limones;5,3;9,8;1,4;45007;83;4
+Arándanos Orgánicos;Tomates Cherry Orgánicos;5,1;5,8;1,4;39275;123;4
+Bolsa de Bananas Orgánicas;Manzanas Gala Orgánicas;19,1;5,0;1,4;13176;24;4
+Cebolla Roja Orgánica;Pepino Kirby;3,4;6,8;1,4;8518;83;4
+Bolsa de Bananas Orgánicas;Pepino Orgánico;19,1;5,8;1,4;13176;24;4
+Cebolla Amarilla Orgánica;Rúcula Baby Orgánica;5,7;5,1;1,4;22935;83;4
+Banana;Pepino Kirby;23,8;6,7;1,4;24852;24;4
+Cebolla Amarilla Orgánica;Tomates Cherry Orgánicos;5,7;6,0;1,4;22935;83;4
+Arándanos Orgánicos;Fresas;5,1;9,8;1,3;39275;123;4
+Fresas Orgánicas;Leche Entera Orgánica;13,3;9,0;1,3;21137;24;4
+Espinacas Baby Orgánicas;Limón Orgánico;12,2;5,8;1,3;21903;123;4
+Fresas Orgánicas;Limón Orgánico;13,3;5,7;1,3;21137;24;4
+Coliflor Fresca;Zanahorias Baby Orgánicas;3,6;5,0;1,3;27104;83;4
+Bolsa de Bananas Orgánicas;Limón Orgánico;19,1;5,9;1,3;13176;24;4
+Fresas;Manzana Honeycrisp;7,2;5,3;1,3;16797;24;4
+Fresas;Pepino Kirby;7,2;6,1;1,3;16797;24;4
+Crema Orgánica;Leche Entera Orgánica;3,8;8,8;1,3;49235;53;16
+Cebolla Roja Orgánica;Manzana Honeycrisp Orgánica;3,4;5,4;1,3;8518;83;4
+Cebolla Amarilla Orgánica;Limón Grande;5,7;9,8;1,3;22935;83;4
+Racimo de Tomates Orgánicos;Tomates Cherry Orgánicos;3,2;5,4;1,3;41950;83;4
+Apio Orgánico en Ramillete Pequeño;Frambuesas Orgánicas;3,4;9,3;1,3;44359;83;4
+Aguacate Orgánico;Banana;8,9;30,2;1,3;47766;24;4
+Espárragos;Pepino Orgánico;3,4;5,5;1,3;46979;83;4
+Espinacas Baby Orgánicas;Pepino Kirby;12,2;6,4;1,3;21903;123;4
+Limones;Pepino Orgánico;7,1;5,3;1,3;26209;24;4
+Coliflor Fresca;Frambuesas Orgánicas;3,6;9,2;1,3;27104;83;4
+Aguacate Hass Orgánico;Espinacas Baby Orgánicas;10,7;16,4;1,3;47209;24;4
+Ajo Orgánico;Manzana Honeycrisp Orgánica;5,5;5,3;1,3;24964;83;4
+Limones;Tomates Cherry Orgánicos;7,1;5,6;1,3;26209;24;4
+Fresas Orgánicas;Uvas Rojas sin Semillas;13,3;5,3;1,3;21137;24;4
+Aguacate Hass Orgánico;Limones;10,7;9,4;1,3;47209;24;4
+Cebollas Amarillas;Manzana Honeycrisp;3,7;5,3;1,3;4605;83;4
+Calabacín Orgánico;Frambuesas Orgánicas;5,3;9,0;1,3;45007;83;4
+Calabacín Orgánico;Zanahorias Baby Orgánicas;5,3;5,0;1,3;45007;83;4
+Hummus Original;Limón Orgánico;3,6;5,7;1,3;30489;67;20
+Coliflor Fresca;Limón Grande;3,6;9,8;1,3;27104;83;4
+Fresas Orgánicas;Zanahorias Baby Orgánicas;13,3;5,0;1,3;21137;24;4
+Aguacate Orgánico;Calabacín Orgánico;8,9;6,5;1,2;47766;24;4
+Espárragos;Limón Orgánico;3,4;5,5;1,2;46979;83;4
+Apio Orgánico en Ramillete Pequeño;Pepino Kirby;3,4;6,0;1,2;44359;83;4
+Bolsa de Bananas Orgánicas;Fresas Orgánicas;19,1;16,4;1,2;13176;24;4
+Banana;Uvas Rojas sin Semillas;23,8;5,2;1,2;24852;24;4
+Espárragos;Frambuesas Orgánicas;3,4;8,3;1,2;46979;83;4
+Banana;Fresas;23,8;8,8;1,2;24852;24;4
+Tomates Cherry Orgánicos;Uvas Rojas sin Semillas;4,3;5,0;1,2;40706;123;4
+Limón Grande;Manzana Fuji Orgánica;7,8;5,4;1,2;47626;24;4
+Fresas;Manzana Fuji Orgánica;7,2;5,2;1,2;16797;24;4
+Calabacín Orgánico;Pepino Kirby;5,3;5,8;1,2;45007;83;4
+Hummus Original;Manzana Fuji Orgánica;3,6;5,4;1,2;30489;67;20
+Hummus Original;Limones;3,6;8,4;1,2;30489;67;20
+Hummus Original;Leche Entera Orgánica;3,6;8,4;1,2;30489;67;20
+Cilantro Orgánico;Manzana Honeycrisp Orgánica;3,5;5,2;1,2;31717;16;4
+Espinacas Baby Orgánicas;Limón Grande;12,2;9,5;1,2;21903;123;4
+Cebollas Amarillas;Tomates Cherry Orgánicos;3,7;5,2;1,2;4605;83;4
+Crema;Manzana Fuji Orgánica;3,5;5,4;1,2;27086;53;16
+Apio Orgánico en Ramillete Pequeño;Limón Grande;3,4;9,7;1,2;44359;83;4
+Apio Orgánico en Ramillete Pequeño;Fresas Orgánicas;3,4;15,8;1,2;44359;83;4
+Coliflor Fresca;Pepino Kirby;3,6;5,9;1,2;27104;83;4
+Coliflor Fresca;Fresas Orgánicas;3,6;15,4;1,2;27104;83;4
+Apio Orgánico en Ramillete Pequeño;Bolsa de Bananas Orgánicas;3,4;22,8;1,2;44359;83;4
+Aguacate Orgánico;Manzana Fuji Orgánica;8,9;5,3;1,2;47766;24;4
+Espinacas Baby Orgánicas;Fresas Orgánicas;12,2;15,8;1,2;21903;123;4
+Cilantro Orgánico;Frambuesas Orgánicas;3,5;8,0;1,2;31717;16;4
+Espinacas Baby Orgánicas;Limones;12,2;8,6;1,2;21903;123;4
+Calabacín Orgánico;Fresas Orgánicas;5,3;14,7;1,1;45007;83;4
+Bolsa de Bananas Orgánicas;Espinacas Baby Orgánicas;19,1;13,3;1,1;13176;24;4
+Cebolla Amarilla Orgánica;Frambuesas Orgánicas;5,7;7,6;1,1;22935;83;4
+Ajo Orgánico;Fresas Orgánicas;5,5;14,3;1,1;24964;83;4
+Aguacate Hass Orgánico;Arándanos Orgánicos;10,7;5,8;1,1;47209;24;4
+Ajo Orgánico;Leche Entera Orgánica;5,5;7,7;1,1;24964;83;4
+Coliflor Fresca;Leche Entera Orgánica;3,6;7,3;1,1;27104;83;4
+Banana;Limón Grande;23,8;8,8;1,1;24852;24;4
+Col Rizada Orgánica de Michigan;Fresas Orgánicas;3,4;14,9;1,1;28985;83;4
+Bolsa de Bananas Orgánicas;Cebolla Amarilla Orgánica;19,1;6,5;1,1;13176;24;4
+Aguacate Orgánico;Leche Entera Orgánica;8,9;7,4;1,1;47766;24;4
+Bolsa de Bananas Orgánicas;Calabacín Orgánico;19,1;6,0;1,1;13176;24;4
+Cebolla Amarilla Orgánica;Fresas Orgánicas;5,7;14,7;1,1;22935;83;4
+Ajo Orgánico;Pepino Kirby;5,5;5,3;1,1;24964;83;4
+Crema;Leche Entera Orgánica;3,5;7,9;1,1;27086;53;16
+Cebollas Amarillas;Espinacas Baby Orgánicas;3,7;13,9;1,1;4605;83;4
+Espinacas Baby Orgánicas;Frambuesas Orgánicas;12,2;7,5;1,1;21903;123;4
+Cebolla Roja Orgánica;Frambuesas Orgánicas;3,4;7,7;1,1;8518;83;4
+Cilantro Orgánico;Pepino Kirby;3,5;5,4;1,1;31717;16;4
+Aguacate Orgánico;Cebolla Amarilla Orgánica;8,9;6,2;1,1;47766;24;4
+Arándanos Orgánicos;Bolsa de Bananas Orgánicas;5,1;21,9;1,1;39275;123;4
+Frambuesas Orgánicas;Leche Entera Orgánica;6,9;7,5;1,1;27966;123;4
+Espárragos;Fresas Orgánicas;3,4;14,9;1,1;46979;83;4
+Arándanos Orgánicos;Espinacas Baby Orgánicas;5,1;13,6;1,1;39275;123;4
+Fresas;Limón Grande;7,2;8,1;1,0;16797;24;4
+Col Rizada Orgánica de Michigan;Frambuesas Orgánicas;3,4;7,0;1,0;28985;83;4
+Aguacate Orgánico;Fresas Orgánicas;8,9;13,6;1,0;47766;24;4
+Arándanos Orgánicos;Leche Entera Orgánica;5,1;6,8;1,0;39275;123;4
+Espinacas Baby Orgánicas;Leche Entera Orgánica;12,2;7,0;1,0;21903;123;4
+Calabacín Orgánico;Leche Entera Orgánica;5,3;7,0;1,0;45007;83;4
+Aguacate Orgánico;Fresas;8,9;7,2;1,0;47766;24;4
+Arándanos Orgánicos;Calabacín Orgánico;5,1;5,4;1,0;39275;123;4
+Banana;Leche Entera Orgánica;23,8;6,6;1,0;24852;24;4
+Cilantro Orgánico;Fresas Orgánicas;3,5;13,3;1,0;31717;16;4
+Aguacate Hass Orgánico;Leche Entera Orgánica;10,7;6,9;1,0;47209;24;4
+Frambuesas Orgánicas;Limones;6,9;6,9;1,0;27966;123;4
+Cebolla Amarilla Orgánica;Leche Entera Orgánica;5,7;7,1;1,0;22935;83;4
+Hummus Original;Limón Grande;3,6;7,8;1,0;30489;67;20
+Cilantro Orgánico;Leche Entera Orgánica;3,5;7,2;1,0;31717;16;4
+Cebollas Amarillas;Fresas;3,7;6,9;1,0;4605;83;4
+Cebolla Roja Orgánica;Leche Entera Orgánica;3,4;7,2;1,0;8518;83;4
+Espárragos;Leche Entera Orgánica;3,4;6,7;1,0;46979;83;4
+Agua con Gas de Pomelo;Limones;3,8;6,8;1,0;44632;115;7
+Aguacate Orgánico;Arándanos Orgánicos;8,9;5,2;1,0;47766;24;4
+Fresas Orgánicas;Limones;13,3;7,2;1,0;21137;24;4
+Bolsa de Bananas Orgánicas;Leche Entera Orgánica;19,1;7,0;1,0;13176;24;4
+Ajo Orgánico;Frambuesas Orgánicas;5,5;6,8;1,0;24964;83;4
+Cebolla Roja Orgánica;Fresas Orgánicas;3,4;13,9;1,0;8518;83;4
+Crema;Limones;3,5;6,8;1,0;27086;53;16
+Ajo Orgánico;Bolsa de Bananas Orgánicas;5,5;19,5;1,0;24964;83;4
+Espárragos;Fresas;3,4;6,4;0,9;46979;83;4
+Agua con Gas de Pomelo;Banana;3,8;20,8;0,9;44632;115;7
+Col Rizada Orgánica de Michigan;Leche Entera Orgánica;3,4;6,0;0,9;28985;83;4
+Crema Orgánica;Fresas Orgánicas;3,8;12,0;0,9;49235;53;16
+Crema Orgánica;Frambuesas Orgánicas;3,8;6,0;0,9;49235;53;16
+Aguacate Hass Orgánico;Limón Grande;10,7;7,1;0,9;47209;24;4
+Arándanos Orgánicos;Limón Grande;5,1;6,8;0,9;39275;123;4
+Crema;Fresas Orgánicas;3,5;12,0;0,9;27086;53;16
+Crema;Limón Grande;3,5;6,7;0,9;27086;53;16
+Crema;Frambuesas Orgánicas;3,5;6,4;0,9;27086;53;16
+Agua con Gas de Pomelo;Aguacate Orgánico;3,8;8,2;0,9;44632;115;7
+Apio Orgánico en Ramillete Pequeño;Leche Entera Orgánica;3,4;6,3;0,9;44359;83;4
+Banana;Espinacas Baby Orgánicas;23,8;10,9;0,9;24852;24;4
+Agua con Gas de Pomelo;Aguacate Hass Orgánico;3,8;9,5;0,9;44632;115;7
+Banana;Fresas Orgánicas;23,8;11,9;0,9;24852;24;4
+Agua con Gas de Pomelo;Frambuesas Orgánicas;3,8;6,5;0,9;44632;115;7
+Agua con Gas de Pomelo;Limón Grande;3,8;7,4;0,9;44632;115;7
+Banana;Limones;23,8;6,7;0,9;24852;24;4
+Cebollas Amarillas;Leche Entera Orgánica;3,7;6,2;0,9;4605;83;4
+Leche Entera Orgánica;Limones;6,9;6,1;0,9;27845;84;16
+Leche Entera Orgánica;Limón Grande;6,9;7,1;0,9;27845;84;16
+Agua con Gas de Pomelo;Espinacas Baby Orgánicas;3,8;9,8;0,8;44632;115;7
+Agua con Gas de Pomelo;Leche Entera Orgánica;3,8;5,7;0,8;44632;115;7
+Agua con Gas de Pomelo;Fresas Orgánicas;3,8;10,7;0,8;44632;115;7
+Crema;Espinacas Baby Orgánicas;3,5;9,5;0,8;27086;53;16
+Aguacate Orgánico;Frambuesas Orgánicas;8,9;5,3;0,8;47766;24;4
+Fresas;Limones;7,2;5,6;0,8;16797;24;4
+Fresas;Leche Entera Orgánica;7,2;5,3;0,8;16797;24;4
+Bolsa de Bananas Orgánicas;Limones;19,1;5,5;0,8;13176;24;4
+Espinacas Baby Orgánicas;Fresas;12,2;5,7;0,8;21903;123;4
+Crema Orgánica;Limón Grande;3,8;6,2;0,8;49235;53;16
+Crema Orgánica;Limones;3,8;5,7;0,8;49235;53;16
+Arándanos Orgánicos;Limones;5,1;5,7;0,8;39275;123;4
+Fresas Orgánicas;Limón Grande;13,3;6,3;0,8;21137;24;4
+Coliflor Fresca;Fresas;3,6;5,5;0,8;27104;83;4
+Col Rizada Orgánica de Michigan;Fresas;3,4;5,4;0,8;28985;83;4
+Arándanos Orgánicos;Banana;5,1;19,0;0,8;39275;123;4
+Cebollas Amarillas;Fresas Orgánicas;3,7;9,4;0,7;4605;83;4
+Calabacín Orgánico;Fresas;5,3;5,3;0,7;45007;83;4
+Agua con Gas de Pomelo;Bolsa de Bananas Orgánicas;3,8;13,2;0,7;44632;115;7
+Bolsa de Bananas Orgánicas;Limón Grande;19,1;5,2;0,7;13176;24;4
+Apio Orgánico en Ramillete Pequeño;Banana;3,4;15,6;0,7;44359;83;4
+Ajo Orgánico;Banana;5,5;17,4;0,7;24964;83;4
+Crema Orgánica;Espinacas Baby Orgánicas;3,8;8,7;0,7;49235;53;16
+Frambuesas Orgánicas;Fresas;6,9;5,3;0,7;27966;123;4
+Aguacate Orgánico;Bolsa de Bananas Orgánicas;8,9;13,0;0,7;47766;24;4
+Frambuesas Orgánicas;Limón Grande;6,9;5,8;0,7;27966;123;4
+Aguacate Hass Orgánico;Banana;10,7;14,6;0,6;47209;24;4

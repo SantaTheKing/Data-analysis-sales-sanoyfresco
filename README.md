@@ -178,6 +178,12 @@ pip install pandas
 # Reinstall Jupyter if needed
 pip install --upgrade jupyter notebook
 ```
+## Impact and Applications
+-This project combines financial analysis, data visualization, and machine learning to offer a comprehensive view of the business, providing key information to improve the supermarket's profitability.
+
+-View the dashboard at the following link: bit.ly/sanoyfresco 
+
+
 
 ## Business Value
 
